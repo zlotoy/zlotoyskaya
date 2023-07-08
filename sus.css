@@ -1,0 +1,25 @@
+
+
+h1 {
+    color: red;
+}
+
+h4{
+    background-color: blue;
+    color: orange;
+}
+# здесь я обращаюсь не к тегу а к классу для тегов
+.item_price{
+    background-color: blue;
+    color: orange;
+}
+
+.description{
+    font-size: 50px;
+    style: oblique;
+    background-color: green;
+    text-align: center;
+}
+#  этом классе я регулирую размер шрифта
+
+
