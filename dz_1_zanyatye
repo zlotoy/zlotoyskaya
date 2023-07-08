@@ -1,0 +1,13 @@
+def super_func(c):
+    if c == c[::-1]:
+        print('Yes')
+        return True
+    else:
+        print('No')
+        return False
+
+
+
+
+ne_palindrom = input('Введите палиндром: ')
+super_func(ne_palindrom)
